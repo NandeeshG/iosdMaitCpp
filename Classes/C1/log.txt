@@ -1,5 +1,5 @@
 PLAN
-- Discuss Assignment 0 and Assignment 1
+- Discuss Assignment 1 and Assignment 2
 - Tell important websites and github(assuming they know how to use git)j
 - Introduce loops - FOR, While, DoWhile
 - Introduce decisions - If, Switch, ? operator
