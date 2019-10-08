@@ -1,0 +1,9 @@
+Class Zero
+
+1. Recommended IDE to be installed - CodeBlocks.
+2. Students may choose to work on an editor/ide of their choice, except TurboC
+3. Learnt about Basic operators in C++ - Logical and Bitwise operators
+4. Learnt what are variables.
+5. Learnt C++ Data Types and thier capacities.
+
+Task for learners - Attempt both assignments before next class. 

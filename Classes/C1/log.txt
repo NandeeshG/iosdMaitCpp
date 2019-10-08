@@ -1,0 +1,8 @@
+PLAN
+- Discuss Assignment 0 and Assignment 1
+- Tell important websites and github(assuming they know how to use git)j
+- Introduce loops - FOR, While, DoWhile
+- Introduce decisions - If, Switch, ? operator
+- Finalize Variables, Data Types and Operators.
+
+Task - Read GfG Articles and do assignment 2
