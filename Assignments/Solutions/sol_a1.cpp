@@ -5,17 +5,15 @@ int main()
 {
     //------------------------------------------
     //Q1
-    int* var_ptr_arr[10] = {nullptr};
+    int five=5, ten=10;
+    int* var_ptr_arr[2] = {&five, &ten};
     //This variable holds a list of pointers to integral values
     //usage example ahead
-    int* num1 = nullptr;
-    int* num2 = nullptr;
-    *num1 = 5;
-    *num2 = 10;
-    var_ptr_arr[0] = num1;
-    var_ptr_arr[1] = num2;
     cout<<"VAR 0 "<<var_ptr_arr[0]<<" -> "<<*var_ptr_arr[0]<<endl;
-    cout<<"VAR 1 "<<var_ptr_arr[1]<<" -> "<<*var_ptr_arr[0]<<endl;
+    cout<<"VAR 1 "<<var_ptr_arr[1]<<" -> "<<*var_ptr_arr[1]<<endl;
+    five = 25;
+    cout<<"VAR 0 "<<var_ptr_arr[0]<<" -> "<<*var_ptr_arr[0]<<endl;
+    cout<<"VAR 1 "<<var_ptr_arr[1]<<" -> "<<*var_ptr_arr[1]<<endl;
     //------------------------------------------
 
 
