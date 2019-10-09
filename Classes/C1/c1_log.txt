@@ -1,6 +1,10 @@
 PLAN
 - Discuss Assignment 1 and Assignment 2
+<<<<<<< HEAD:Classes/C1/log.txt
 - Tell important websites and github(assuming they know how to use git)
+=======
+- Tell important websites and github(assuming they know how to use git)j
+>>>>>>> 9fcad03fab46f5d115726d7230681749e933f0bd:Classes/C1/c1_log.txt
 - Introduce loops - FOR, While, DoWhile
 - Introduce decisions - If, Switch, ? operator
 - Finalize Variables, Data Types and Operators.
