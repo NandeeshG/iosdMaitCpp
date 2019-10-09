@@ -5,5 +5,6 @@ Class Zero
 3. Learnt about Basic operators in C++ - Logical and Bitwise operators
 4. Learnt what are variables.
 5. Learnt C++ Data Types and thier capacities.
+6. Binary numbers and conversion
 
 Task for learners - Attempt both assignments before next class. 
