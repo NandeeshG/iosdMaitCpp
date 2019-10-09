@@ -1,8 +1,16 @@
 PLAN
-- Discuss Assignment 0 and Assignment 1
-- Tell important websites and github(assuming they know how to use git)j
+- Discuss Assignment 1 and Assignment 2
+- Tell important websites and github(assuming they know how to use git)
 - Introduce loops - FOR, While, DoWhile
 - Introduce decisions - If, Switch, ? operator
 - Finalize Variables, Data Types and Operators.
 
-Task - Read GfG Articles and do assignment 2
+ACHIEVED
+- Discussed Assignment 1 3 questions, rest students will do on their own
+- Loops done
+- If-Else done
+- Conversion to binary done
+- & bitwise operator discussed
+- Variables, Data Types, Operators finalized
+
+Home Task - Read GfG Articles and do assignment 1 and 2
