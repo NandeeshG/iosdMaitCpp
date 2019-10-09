@@ -7,7 +7,7 @@ PLAN
 - Finalize Variables, Data Types and Operators.
 
 ACHIEVED
-- Discussed Assignment 1 3 questions, rest students will do on their own
+- Discussed Assignment 1, till 3rd question, rest students will do on their own
 - Loops done
 - If-Else done
 - Conversion to binary done
