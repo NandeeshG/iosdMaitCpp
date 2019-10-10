@@ -12,6 +12,8 @@ ACHIEVED
 - If-Else done
 - Conversion to binary done
 - & bitwise operator discussed
+- cout and cin
+- left shift and right shift operators (<< and >>)
 - Variables, Data Types, Operators finalized
 
 Home Task - Read GfG Articles and do assignment 1 and 2
