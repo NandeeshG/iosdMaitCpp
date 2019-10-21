@@ -1,0 +1,10 @@
+
+Class held from 3:15pm to 4:45pm, 7 students attended
+Discussed - 
+1. Arrays - 1D,2D,3D
+2. How to use array
+3. Range Sum Query problem and nested loop solution
+4. Time complexity introduced
+5. Range sum query improved time complexity with sumaaray
+6. Functions - Calling and Making them
+7. Introduction to recursion - Fibonacci numbers
