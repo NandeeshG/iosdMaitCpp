@@ -1,4 +1,4 @@
-Class Zero
+Class One
 
 1. Recommended IDE to be installed - CodeBlocks.
 2. Students may choose to work on an editor/ide of their choice, except TurboC
